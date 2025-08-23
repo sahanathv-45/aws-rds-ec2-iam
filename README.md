@@ -18,7 +18,7 @@ You will learn how to set up a secure environment, connect EC2 to RDS MySQL, and
 ---
 
 ## Files in this Repository
-- `NullClass Cloud Technology.pdf` → Detailed documentation with screenshots & steps  
+- `aws-rds-ec2-iam.pdf` → Detailed documentation with screenshots & steps  
 - `README.md` → Overview of the project  
 
 ---
